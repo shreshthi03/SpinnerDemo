@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="array1">
+
+        <item>RED</item>
+        <item>PINK</item>
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>WHITE</item>
+
+
+
+
+    </string-array>
+
+</resources>
